@@ -7,3 +7,6 @@ Game objects were missing. I quickly remade it but ran into a problem where it w
 
 # 01/11/2018
 During assignment 2 i ran into a problem with instantiating a prefab, i forgot to actually place the prefab into the inspector, everything worked fine after that.
+
+# 06/11/2018
+During Assignment 3 when creating behavior 3 i ran into a problem where the script was giving me some errors, i solved this issue through checking the error log and finding that one of the brackets { was not entered so it confused the script a bit, it was an easy fix/

@@ -10,3 +10,5 @@ During assignment 2 i ran into a problem with instantiating a prefab, i forgot t
 
 # 06/11/2018
 During Assignment 3 when creating behavior 3 i ran into a problem where the script was giving me some errors, i solved this issue through checking the error log and finding that one of the brackets { was not entered so it confused the script a bit, it was an easy fix/
+# 07/11/2018
+Assignment 4 behaviour was finished the only problem was some errors that was fixed and that the "Is trigger" button was not ticked so my animation didn't play.

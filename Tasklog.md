@@ -7,5 +7,5 @@ Date | Start | End | Interruptions | Time (H) | Task
 01/11/18| 19:30 | 22:05 | - | 2.35 |Second behaviour created and word document tutorial created for the behaviour
 06/11/18 | 14:00 | 15:30 | - | 1.30 | third Behaviour created with word document tutorial.
 00/00/18 | 16:20 | 18:45| 0.30 | 1.55 | Fourth behaviour created with word document tutorial
-00/00/18 | 08:50 | 09:00 | - | 0.00 | Add text
+28/11/18 | 18:00 | 02:33 | 2.00| 6.33 | All behaviours added to one project for coursework 1, coursework 1 finished
 00/00/18| 23:00 | 23:50 | - | 0.00 | Add text
